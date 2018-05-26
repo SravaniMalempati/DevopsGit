@@ -12,8 +12,8 @@ import com.javatpoint.form.Contact;
 public class ContactController {  
     @RequestMapping(value = "/addContact", method = RequestMethod.POST)  
     public String addContact(@ModelAttribute("contact") Contact contact, BindingResult result) {  
-<<<<<<< HEAD
-<<<<<<< HEAD
+<<<<<<< HEAD 
+<<<<<<< HEAD //writing code here
         // Sandy has written the code here to add contact  
 =======
         //write the code here to add contact  
